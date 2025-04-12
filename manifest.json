@@ -50,6 +50,10 @@
         {
           "value": "tilix",
           "text": "Tilix"
+        },
+        {
+          "value": "kitty",
+          "text": "kitty"
         }
       ]
     }
